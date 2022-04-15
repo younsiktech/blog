@@ -1,0 +1,15 @@
+# some information about you
+name: "Younsik Choi"
+nickname: "younsik.tech"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Welcome to visit my tech blog [EN] - "
+image: "images/author/author.gif"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "younsik.tech@gmail.com"
+  github: younsiktech
+
+# some summary about what you do
+summary:
+  - Current page is written in English
+  - Language selection is in the upper right corner

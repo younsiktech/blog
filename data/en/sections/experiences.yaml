@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Kakao Pay
+    url: "https://www.kakaopay.com"
+    location: Seong-nam, South Korea
+    # company overview
+    overview: Until all of our financial lives become accessible just through Kakao Pay
+  positions:
+  - designation: Software Engineer in SDE(Search & Discovery Engineer) Team
+    start: Nov 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop rest-api & data-pipeline for Search Service
+    - Design, develop and manage search platform with [ElasticSearch](https://www.elastic.co)
+
+- company:
+    name: Tosslab
+    url: "https://www.jandi.com"
+    location: Seoul, South Korea
+    overview: Toss Lab is Asia's top enterprise SaaS that helps companies experience simple, efficient, and enjoyable workflow
+  positions:
+  - designation: Software Engineer in Back-end Team
+    start: Sep 2020
+    end: Oct 2021
+    responsibilities:
+    - Microservices design and development for work collaboration tools
+    - AWS cloud-based infrastructure construction and maintenance
+
+- company:
+    name: Gc Company
+    url: "https://www.gccompany.co.kr"
+    location: Seoul, South Korea
+    overview: Gc Company is change the accommodation industry for the better by solving the inconvenience of the accommodation journey and building a reliable accommodation environment
+  positions:
+  - designation: Software Engineer in Search and Ads Development Team
+    start: Dec 2017
+    end: Mar 2020
+    responsibilities:
+    - 검색 서비스를 위한 rest-api & data-pipeline 설계 및 개발
+    - 검색 플랫폼 with [ElasticSearch](https://www.elastic.co) 설계 및 개발 & 유지보수

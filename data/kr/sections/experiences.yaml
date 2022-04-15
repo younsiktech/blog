@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/experiences.html
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 카카오페이
+    url: "https://www.kakaopay.com"
+    location: 성남시, 대한민국
+    # company overview
+    overview: 모두의 금융 생활이 카카오페이 하나로 다 되는 그날까지
+  positions:
+  - designation: Software Engineer in SDE(Search & Discovery Engineer) Team
+    start: Nov 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - 검색 서비스를 위한 rest-api & data-pipeline 설계 및 개발
+    - 검색 플랫폼 with [ElasticSearch](https://www.elastic.co) 설계 및 개발 & 유지보수
+
+- company:
+    name: 토스랩
+    url: "https://www.jandi.com"
+    location: 서울특별시, 대한민국
+    overview: 아시아 No. 1 엔터프라이즈 SaaS 기업을 향해 나아가는 토스랩의 서비스를 사용하면 업무가 단순해지는 동시에 효율적이고 또 즐거워집니다
+  positions:
+  - designation: Software Engineer in Back-end Team
+    start: Sep 2020
+    end: Oct 2021
+    responsibilities:
+    - 업무 협업툴을 위한 마이크로서비스 설계 및 개발
+    - AWS 클라우드 기반의 인프라 구축 및 유지보수
+
+- company:
+    name: 여기어때컴퍼니
+    url: "https://www.gccompany.co.kr"
+    location: 서울특별시, 대한민국
+    overview: 여기어때컴퍼니는 숙박 여정의 불편함을 해결하고 신뢰할 수 있는 숙소 환경을 구축하여, 숙박산업을 더 나은 방향으로 변화시킵니다
+  positions:
+  - designation: Software Engineer in Search and Ads Development Team
+    start: Dec 2017
+    end: Mar 2020
+    responsibilities:
+    - 검색 서비스를 위한 rest-api & data-pipeline 설계 및 개발
+    - 검색 플랫폼 with [ElasticSearch](https://www.elastic.co) 설계 및 개발 & 유지보수

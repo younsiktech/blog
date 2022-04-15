@@ -1,0 +1,15 @@
+# some information about you
+name: "최연식"
+nickname: "younsik.tech"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Welcome to visit my tech blog [KR] - "
+image: "images/author/author.gif"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "younsik.tech@gmail.com"
+  github: younsiktech
+
+# some summary about what you do
+summary:
+  - 현재 페이지는 한국어로 작성되어 있습니다
+  - Language selection is in the upper right corner

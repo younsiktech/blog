@@ -50,5 +50,5 @@ experiences:
     start: Dec 2017
     end: Mar 2020
     responsibilities:
-    - 검색 서비스를 위한 rest-api & data-pipeline 설계 및 개발
-    - 검색 플랫폼 with [ElasticSearch](https://www.elastic.co) 설계 및 개발 & 유지보수
+    - Design and develop rest-api & data-pipeline for Search Service
+    - Design, develop and manage search platform with [ElasticSearch](https://www.elastic.co)

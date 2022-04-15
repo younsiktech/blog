@@ -7,9 +7,6 @@ menu:
     name: Markdown Samples
     identifier: markdown
     weight: 30
-author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
 math: true
 hero: boat.jpg
 ---

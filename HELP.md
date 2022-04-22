@@ -1,6 +1,6 @@
 # HELP
 
-## Run
+## Local
 
 ```shell
 hugo server -t toha -w
@@ -13,3 +13,9 @@ hugo new content/posts/{POST_PATH}/index.kr.md
 # English post
 hugo new content/posts/{POST_PATH}/index.en.md
 ```
+
+## Deploy
+```shell
+./deploy.sh
+```
+

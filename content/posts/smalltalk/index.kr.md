@@ -1,12 +1,11 @@
 ---
-title: "Introduction"
+title: "Small Talk"
 date: 2020-06-08T08:06:25+06:00
-lastmod: 2020-06-11T08:06:25+06:00
 description: Introduction to Sample Post
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: Small Talk
+    identifier: smalltalk
     weight: 5
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]

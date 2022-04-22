@@ -38,10 +38,42 @@ skills:
   summary: "Using for node.js based services(MVC, Rest-API, Batch)."
   url: "https://expressjs.com"
 
-- name: React
-  logo: /images/sections/skills/react.png
-  summary: "Beginner"
-  url: "https://reactjs.org"
+# - name: React
+#   logo: /images/sections/skills/react.png
+#   summary: "Beginner"
+#   url: "https://reactjs.org"
+
+# career
+
+- name: Elasticsearch
+  logo: /images/sections/skills/elasticsearch.png
+  summary: "Using for search service & log monitoring."
+  url: "https://www.elastic.co"
+
+- name: Logstash
+  logo: /images/sections/skills/logstash.png
+  summary: "Using for pipeline for ELK based system & producer and consumer for kafka."
+  url: "https://www.elastic.co"
+
+- name: Kibana
+  logo: /images/sections/skills/kibana.png
+  summary: "Using for dashboard for service and system metric."
+  url: "https://www.elastic.co"
+
+- name: Solr
+  logo: /images/sections/skills/solr.png
+  summary: "Using for search service for almost two billion documents"
+  url: "https://solr.apache.org"
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "Using for main database"
+  url: "https://www.mysql.com"
+
+- name: MongoDB
+  logo: /images/sections/skills/mongodb.png
+  summary: "Using for main database for more than billions documents with Hundreds TB"
+  url: "https://www.mongodb.com"
 
 # language
 - name: Java
@@ -59,20 +91,20 @@ skills:
   summary: "Using for ML/DL or tiny api and batch development. Experienced with Flask and Alchemy."
   url: "https://www.python.org"
 
-- name: Kotlin
-  logo: /images/sections/skills/kotlin.png
-  summary: "Beginner"
-  url: "https://kotlinlang.org"
+# - name: Kotlin
+#   logo: /images/sections/skills/kotlin.png
+#   summary: "Beginner"
+#   url: "https://kotlinlang.org"
 
 - name: GoLang
   logo: /images/sections/skills/go.png
   summary: "Using for dev-tool or tiny api and batch development."
   url: "https://golang.org/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming based on gcc."
-  url: "https://isocpp.org"
+# - name: C++
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming based on gcc."
+#   url: "https://isocpp.org"
 
 # container
 - name: Docker
@@ -91,17 +123,17 @@ skills:
   url: "https://prometheus.io"
 
 # ml
-- name: Tensorflow
-  logo: /images/sections/skills/tensorflow.png
-  summary: "Using for applying ML/DL system to search systems. Experienced with implementation of papers related to NLP, recommendation and object detection."
-  url: "https://www.tensorflow.org"
-
-- name: Pytorch
-  logo: /images/sections/skills/pytorch.png
-  summary: "Using for applying ML/DL system to search systems. Experienced with implementation of papers related to NLP, recommendation and object detection."
-  url: "https://pytorch.org"
-
-- name: Kubeflow
-  logo: /images/sections/skills/kubeflow.png
-  summary: "Using for MLops"
-  url: "https://www.kubeflow.org"
+# - name: Tensorflow
+#   logo: /images/sections/skills/tensorflow.png
+#   summary: "Using for applying ML/DL system to search systems. Experienced with implementation of papers related to NLP, recommendation and object detection."
+#   url: "https://www.tensorflow.org"
+#
+# - name: Pytorch
+#   logo: /images/sections/skills/pytorch.png
+#   summary: "Using for applying ML/DL system to search systems. Experienced with implementation of papers related to NLP, recommendation and object detection."
+#   url: "https://pytorch.org"
+#
+# - name: Kubeflow
+#   logo: /images/sections/skills/kubeflow.png
+#   summary: "Using for MLops"
+#   url: "https://www.kubeflow.org"

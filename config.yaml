@@ -21,7 +21,6 @@ languages:
     languageName: English
     weight: 2
 
-
 # Allow raw html in markdown file
 markup:
   goldmark:
@@ -39,9 +38,24 @@ outputs:
     - HTML
     - RSS
     - JSON
+  page:
+    - HTML
+    - RSS
 
 # Enable global emoji support
 enableEmoji: true
+
+# git info
+enableGitInfo: true
+frontmatter:
+  date:
+  - myDate
+  - :default
+  lastmod:
+  - :git
+  - lastmod
+  - :fileModTime
+  - :default
 
 # Site parameters
 params:
@@ -182,4 +196,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false

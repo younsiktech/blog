@@ -18,7 +18,9 @@ M1 Mac & Intel Mac have same steps at 2022.04.06.
 
 ## Install Iterm2
 
-### 1. Move to [official site](https://iterm2.com) and download current version
+### 1. Move to official site and download current version
+
+[OFFICIAL SITE LINK](https://iterm2.com)
 
 ### 2. Install downloaded DMG
 
